@@ -49,7 +49,7 @@ Structured multi-model debate catches both: if three models disagree on a conclu
 
 ## 🔗 Related
 
-Originally built as part of the [Trading Automation Stack](https://www.vickybansal.com) — the multi-AI decision engine for trading decisions across US and Indian markets.
+Originally built as part of the [Trading Automation Stack](https://github.com/vickybansal99-tech/trading-automation-stack) — the multi-AI decision engine for trading decisions across US and Indian markets. This repo documents the decision framework standalone since it generalises well beyond trading.
 
 ---
 
