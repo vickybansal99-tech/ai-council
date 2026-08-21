@@ -14,6 +14,10 @@ The framework puts Claude, ChatGPT, and Gemini into a structured dialogue over a
 
 ---
 
+## Visual overview
+
+![AI Council architecture overview](architecture.svg)
+
 ## 🧠 How It Works
 
 ```mermaid
